@@ -10,7 +10,8 @@ body {
 
 #buttons {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    padding-bottom: 1rem;
 }
 
 button {
