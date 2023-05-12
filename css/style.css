@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(90deg, rgba(238, 135, 260, 123));
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: cadetblue;
+    width: 100px;
+    height: 20px;
+}
+
+tr {
+    border: 2px solid blue;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+}
